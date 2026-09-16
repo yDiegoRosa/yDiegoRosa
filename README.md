@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rdiegosilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:diegodg22@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yinvictus1.github.io/Curriculum/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://ydiegorosa.github.io/Curriculum/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Transformando+dados+em+insights;Construindo+modelos+de+Machine+Learning;Apaixonado+por+Intelig%C3%AAncia+Artificial;Explorando+o+poder+dos+dados" alt="Typing SVG" />
@@ -83,7 +83,7 @@ Sou um **entusiasta de dados e inteligência artificial** em constante evoluçã
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yDiegoRosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&cache_seconds=1800"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDiegoRosa1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDiegoRosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&cache_seconds=1800"/>
 </div>
 
 <div align="center">
@@ -98,7 +98,7 @@ Sou um **entusiasta de dados e inteligência artificial** em constante evoluçã
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yDiegoRosa/yDiegoRosa/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yDiegoRosa/yDiegoRosa/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yInvictus1/yDiegoRosa/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yDiegoRosa/yDiegoRosa/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -161,9 +161,9 @@ graph LR
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=yInvictus1&color=00D9FF&style=for-the-badge&label=Visitantes+do+Perfil)
-![](https://img.shields.io/github/followers/yInvictus1?label=Seguidores&style=for-the-badge&color=00D9FF)
-![](https://img.shields.io/github/stars/yInvictus1?label=Total+de+Stars&style=for-the-badge&color=00D9FF)
+![](https://komarev.com/ghpvc/?username=yDiegoRosa?color=00D9FF&style=for-the-badge&label=Visitantes+do+Perfil)
+![](https://img.shields.io/github/followers/yDiegoRosa?label=Seguidores&style=for-the-badge&color=00D9FF)
+![](https://img.shields.io/github/stars/yDiegoRosa?label=Total+de+Stars&style=for-the-badge&color=00D9FF)
 
 </div>
 
@@ -177,7 +177,7 @@ Estou sempre aberto a discutir sobre **Data Science**, **Machine Learning** e op
 
 **📧 Email:** diegodg22@outlook.com  
 **💼 LinkedIn:** [/rdiegosilva](https://www.linkedin.com/in/rdiegosilva)  
-**🌐 Portfolio:** [Visite meu site](https://yinvictus1.github.io/Curriculum/)
+**🌐 Portfolio:** [Visite meu site](https://ydiegorosa.github.io/Curriculum/)
 
 </div>
 
