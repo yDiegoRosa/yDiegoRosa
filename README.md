@@ -42,22 +42,68 @@ class DiegoRosa:
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-
-<a href="https://github.com/yDiegoRosa/Fossil-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yDiegoRosa&repo=Fossil-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Fossil-Dashboard"/>
-</a>
-<a href="https://github.com/yDiegoRosa/PyVision-Reader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yDiegoRosa&repo=PyVision-Reader&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="PyVision-Reader"/>
-</a>
-<a href="https://github.com/yDiegoRosa/Dino-Fossil-Classifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yDiegoRosa&repo=Dino-Fossil-Classifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Dino-Fossil-Classifier"/>
-</a>
-<a href="https://github.com/yDiegoRosa/Rastreador_KCF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yDiegoRosa&repo=Rastreador_KCF&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Rastreador_KCF"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🦕 Fossil-Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/yDiegoRosa/Fossil-Dashboard">
+          <img src="https://img.shields.io/badge/Ver_Repositório-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </p>
+      <p align="center">App interativo com dados reais da Paleobiology Database (PBDB). Visualiza no mapa onde fósseis de dinossauros foram encontrados ao redor do mundo.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/API_REST-009688?style=flat-square&logo=fastapi&logoColor=white" alt="API"/>
+        <img src="https://img.shields.io/badge/Data_Viz-E10098?style=flat-square&logo=plotly&logoColor=white" alt="Viz"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ PyVision-Reader</h3>
+      <p align="center">
+        <a href="https://github.com/yDiegoRosa/PyVision-Reader">
+          <img src="https://img.shields.io/badge/Ver_Repositório-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </p>
+      <p align="center">Ferramenta de OCR desenvolvida em Python. Utiliza OpenCV para pré-processamento de imagens e Tesseract para extração de texto com alta precisão.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/Tesseract-4285F4?style=flat-square&logo=google&logoColor=white" alt="Tesseract"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔬 Dino-Fossil-Classifier</h3>
+      <p align="center">
+        <a href="https://github.com/yDiegoRosa/Dino-Fossil-Classifier">
+          <img src="https://img.shields.io/badge/Ver_Repositório-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </p>
+      <p align="center">Classificador de fósseis de dinossauros utilizando técnicas de Machine Learning para identificação e categorização de espécimes.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Sklearn"/>
+        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="ML"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📹 Rastreador_KCF</h3>
+      <p align="center">
+        <a href="https://github.com/yDiegoRosa/Rastreador_KCF">
+          <img src="https://img.shields.io/badge/Ver_Repositório-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </p>
+      <p align="center">Sistema de rastreamento de objetos em vídeo utilizando o algoritmo KCF (Kernelized Correlation Filters) com OpenCV em tempo real.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/Computer_Vision-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="CV"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
